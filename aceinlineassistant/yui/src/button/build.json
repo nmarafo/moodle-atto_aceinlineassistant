@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_aceinlineassistant-button",
+  "builds": {
+    "moodle-atto_aceinlineassistant-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
