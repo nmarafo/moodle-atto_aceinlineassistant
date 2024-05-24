@@ -2,3 +2,37 @@
     width: 2.18rem;
     margin: 0.1rem;
 }
+/* Estilos para los botones dentro del cuadro de diálogo */
+.atto_aceinlineassistant_dialogue_button {
+    min-width: 250px; /* Ajusta este valor según sea necesario */
+    display: inline-block; /* Asegura que el botón se comporte como un bloque en línea */
+    text-align: center; /* Centra el texto dentro del botón */
+}
+
+/* Estilos para la fila del botón */
+.atto_aceinlineassistant_button_row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Espacio entre filas */
+}
+
+/* Estilos para el texto explicativo al lado del botón */
+.atto_aceinlineassistant_button_label {
+    margin-left: 10px; /* Espacio entre el botón y el texto explicativo */
+}
+
+/* Estilos adicionales para el cuadro de diálogo */
+.yui3-widget-bd .atto_aceinlineassistant_selector {
+    width: 600px; /* Ajusta este valor según sea necesario */
+    max-height: 400px; /* Altura máxima del cuadro de diálogo */
+    overflow-y: auto; /* Añadir barra de desplazamiento vertical si se excede la altura */
+    padding-right: 10px; /* Espacio para la barra de desplazamiento */
+}
+
+
+.aceinlineassistant-text {
+    display: inline-block;
+    white-space: normal; /* Permitir saltos de línea */
+    word-wrap: break-word; /* Romper palabras largas */
+    max-width: 300px; /* Ajusta este valor según sea necesario */
+}

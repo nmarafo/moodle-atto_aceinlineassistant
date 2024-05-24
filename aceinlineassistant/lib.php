@@ -36,11 +36,25 @@ function atto_aceinlineassistant_strings_for_js() {
     // which are enabled in the JavaScript part of this plugin.
     $PAGE->requires->strings_for_js(
         array(
-            'nobreakspace',
-            'ampersand',
-            'quotationmark',
-            'interrobang',
-            'insertcharacter'
+            'Text1',
+            'Text2',
+            'Text3',
+            'Text4',
+            'Text5',
+            'Text6',
+            'Text7',
+            'Text8',
+            'Text9',
+            'Text10',
+            'Text11',
+            'Text12',
+            'Text13',
+            'Text14',
+            'Text15',
+            'Text16',
+            'Text17',
+            'Text18',
+            'inserttext'
         ),
         'atto_aceinlineassistant'
     );
