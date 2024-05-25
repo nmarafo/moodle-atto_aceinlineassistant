@@ -24,27 +24,27 @@
 
 $string['inserttext'] = 'Ace Inline Assistant';
 
-$string['Text1'] = 'Code highlighted by colors';
-$string['Text2'] = 'Interact with the code';
-$string['Text3'] = 'Using text area as input';
-$string['Text4'] = 'Upload a file and work with its content';
-$string['Text5'] = 'The language to use for Ace editor syntax highlighting';
-$string['Text6'] = 'Sets the label to be used for the button instead of "Try it!".';
-$string['Text7'] = 'Can be set to "none" to suppress line numbers or to an integer';
-$string['Text8'] = 'If set (to any value), the user cannot edit the provided code';
-$string['Text9'] = 'The name of a global JavaScript function that takes as a parameter';
-$string['Text10'] = 'Select when to use a dark mode for the Ace editor. It has values ​​0, 1 or 2 for no, maybe and yes.';
-$string['Text11'] = 'The font size to use in the Ace editor, e.g. "11 points".';
-$string['Text12'] = 'If set, program output is interpreted as raw HTML for insertion into the DOM, rather than being escaped and displayed in a <p> element.';
-$string['Text13'] = 'The minimum number of lines to display in the Ace editor. Default 4.';
-$string['Text14'] = 'The maximum number of lines to be displayed in the Ace editor without a scroll bar. Default 50.';
-$string['Text15'] = 'The limit of the displayed length of stdout and stderr strings. Longer strings are truncated before displaying. Default: 10,000.';
-$string['Text16'] = 'Defines the code to be inserted before the Ace editor code (so that the student does not see it).';
-$string['Text17'] = 'Sets the number to use for the first line of code in the Ace editor. Default 1.';
-$string['Text18'] = 'Defines the code to be inserted after the Ace editor code (so that the student does not see it).';
+$string['Text1'] = 'Código resaltado por colores';
+$string['Text2'] = 'Interactúa con el código';
+$string['Text3'] = 'Usando el área de texto como entrada';
+$string['Text4'] = 'Sube un archivo y trabaja con su contenido';
+$string['Text5'] = 'El idioma a usar para el resaltado de sintaxis del editor Ace';
+$string['Text6'] = 'Establece la etiqueta que se usará para el botón en lugar de "¡Pruébalo!".';
+$string['Text7'] = 'Se puede establecer en "ninguno" para suprimir los números de línea o en un número entero';
+$string['Text8'] = 'Si se establece (a cualquier valor), el usuario no puede editar el código proporcionado';
+$string['Text9'] = 'El nombre de una función global de JavaScript que toma como parámetro';
+$string['Text10'] = 'Selecciona cuándo usar el modo oscuro para el editor Ace. Tiene valores 0, 1 o 2 para no, tal vez y sí.';
+$string['Text11'] = 'El tamaño de la fuente a usar en el editor Ace, por ejemplo, "11 puntos".';
+$string['Text12'] = 'Si se establece, la salida del programa se interpreta como HTML sin procesar para su inserción en el DOM, en lugar de escaparse y mostrarse en un elemento <p>.';
+$string['Text13'] = 'El número mínimo de líneas a mostrar en el editor Ace. Predeterminado 4.';
+$string['Text14'] = 'El número máximo de líneas a mostrar en el editor Ace sin una barra de desplazamiento. Predeterminado 50.';
+$string['Text15'] = 'El límite de la longitud mostrada de las cadenas stdout y stderr. Las cadenas más largas se truncan antes de mostrarse. Predeterminado: 10,000.';
+$string['Text16'] = 'Define el código que se insertará antes del código del editor Ace (para que el estudiante no lo vea).';
+$string['Text17'] = 'Establece el número a usar para la primera línea de código en el editor Ace. Predeterminado 1.';
+$string['Text18'] = 'Define el código que se insertará después del código del editor Ace (para que el estudiante no lo vea).';
 
 $string['pluginname'] = 'Ace Inline Assistant';
 
 // The following are not ordered on purpose, they are kept
 // in the order in which they appear in the user interface.
-$string['privacy:metadata'] = 'The atto_aceinlineassistant plugin does not store any personal data.';
+$string['privacy:metadata'] = 'El plugin atto_aceinlineassistant no almacena ningún dato personal.';

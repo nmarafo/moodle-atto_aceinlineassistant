@@ -1,0 +1,2 @@
+# aceinlineassistant
+Atto editor plugin
