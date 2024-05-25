@@ -22,7 +22,7 @@ YUI.add('moodle-atto_aceinlineassistant-button', function (Y, NAME) {
  */
 
 /**
- * Atto text editor character map plugin
+ * Atto text editor aceinlineassistant map plugin
  *
  * @module moodle-atto_aceinlineassistant-button
  */

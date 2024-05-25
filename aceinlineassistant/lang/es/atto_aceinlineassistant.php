@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_aceinlineassistant', language 'en'.
+ * Strings for component 'atto_aceinlineassistant', language 'es'.
  *
  * @package    atto_aceinlineassistant
  * @copyright  2024 Norberto Martín Afonso

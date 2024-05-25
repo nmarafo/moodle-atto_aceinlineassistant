@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Atto text editor charmap plugin version file.
+ * Atto text editor aceinlineassistant plugin version file.
  *
  * @package    atto_aceinlineassistant
  * @copyright  2024 Norberto Martín Afonso
@@ -26,5 +26,5 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2024052500;        // The current plugin version (Date: YYYYMMDDXX).
 $plugin->requires  = 2022111800;        // Requires this Moodle version.
-$plugin->release = 'v1.0.1'; 
+$plugin->release = 'v1.0.2'; 
 $plugin->component = 'atto_aceinlineassistant';  // Full name of the plugin (used for diagnostics).
