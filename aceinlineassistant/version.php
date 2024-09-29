@@ -26,5 +26,9 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2024052501;        // The current plugin version (Date: YYYYMMDDXX).
 $plugin->requires  = 2022111800;        // Requires this Moodle version.
-$plugin->release = 'v1.0.2'; 
+$plugin->dependencies = array(
+    'filter_ace_inline' => 2024092700, 
+    'qtype_coderunner' => 2024090500    
+);
+$plugin->release = 'v1.0.3'; 
 $plugin->component = 'atto_aceinlineassistant';  // Full name of the plugin (used for diagnostics).
