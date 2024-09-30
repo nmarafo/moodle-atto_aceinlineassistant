@@ -1,2 +1,2 @@
-# moodle-atto_aceinlineassistant
+# aceinlineassistant
 Atto editor plugin
